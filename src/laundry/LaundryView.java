@@ -302,4 +302,7 @@ public class LaundryView extends javax.swing.JFrame {
     private javax.swing.JTextField txtJenis;
     private javax.swing.JTextField txtNama;
     // End of variables declaration//GEN-END:variables
+    
+    // Fitri Mardiana_21120119130112
+    // M Ilham Wicaksono_21120119140118
 }
